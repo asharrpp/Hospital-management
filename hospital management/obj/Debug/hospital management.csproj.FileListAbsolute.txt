@@ -1,0 +1,11 @@
+C:\Users\LATEEF\source\repos\hospital management\hospital management\bin\Debug\hospital management.exe.config
+C:\Users\LATEEF\source\repos\hospital management\hospital management\bin\Debug\hospital management.exe
+C:\Users\LATEEF\source\repos\hospital management\hospital management\bin\Debug\hospital management.pdb
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital management.csprojAssemblyReference.cache
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital_management.Form1.resources
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital_management.Properties.Resources.resources
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital management.csproj.GenerateResource.cache
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital management.csproj.CoreCompileInputs.cache
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital management.exe
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital management.pdb
+C:\Users\LATEEF\source\repos\hospital management\hospital management\obj\Debug\hospital_management.Dashboard.resources
